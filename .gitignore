@@ -1,0 +1,10 @@
+out
+out_phases
+analyze_v01.py
+analyze_v02.py
+debug_03.py
+code_for_display_only.py
+scratch.py
+# create_slideshow_graphs.py
+__pycache__
+.mypy_cache
